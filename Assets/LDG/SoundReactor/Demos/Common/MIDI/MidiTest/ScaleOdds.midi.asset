@@ -1,0 +1,1225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eaf1797cf073ad4b8a3b714b10bdfdb, type: 3}
+  m_Name: ScaleOdds.midi
+  m_EditorClassIdentifier: 
+  midiFile: {fileID: 102900000, guid: fcdd3a6a719b9e345b4a6ff3904109f7, type: 3}
+  defaultTempo: 120
+  trackPreviewIndex: 0
+  tracks:
+  - name: Track 1
+    midiEvents:
+    - DeltaTicks: 0
+      Ticks: 0
+      HoldTicks: 0
+      Time: 0
+      HoldTime: 0
+      MetaMessageIndex: 0
+      Status: 255
+      Data1: 0
+      Data2: 0
+    - DeltaTicks: 0
+      Ticks: 0
+      HoldTicks: 0
+      Time: 0
+      HoldTime: 0
+      MetaMessageIndex: 1
+      Status: 255
+      Data1: 0
+      Data2: 0
+    - DeltaTicks: 0
+      Ticks: 0
+      HoldTicks: 0
+      Time: 0
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 255
+      Data1: 0
+      Data2: 0
+    - DeltaTicks: 0
+      Ticks: 0
+      HoldTicks: 6
+      Time: 0
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 0
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 6
+      HoldTicks: 0
+      Time: 0.03125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 0
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 12
+      HoldTicks: 6
+      Time: 0.0625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 2
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 18
+      HoldTicks: 0
+      Time: 0.09375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 2
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 24
+      HoldTicks: 6
+      Time: 0.125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 4
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 30
+      HoldTicks: 0
+      Time: 0.15625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 4
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 36
+      HoldTicks: 6
+      Time: 0.1875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 6
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 42
+      HoldTicks: 0
+      Time: 0.21875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 6
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 48
+      HoldTicks: 6
+      Time: 0.25
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 8
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 54
+      HoldTicks: 0
+      Time: 0.28125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 8
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 60
+      HoldTicks: 6
+      Time: 0.3125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 10
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 66
+      HoldTicks: 0
+      Time: 0.34375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 10
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 72
+      HoldTicks: 6
+      Time: 0.375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 12
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 78
+      HoldTicks: 0
+      Time: 0.40625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 12
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 84
+      HoldTicks: 6
+      Time: 0.4375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 14
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 90
+      HoldTicks: 0
+      Time: 0.46875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 14
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 96
+      HoldTicks: 6
+      Time: 0.5
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 16
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 102
+      HoldTicks: 0
+      Time: 0.53125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 16
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 108
+      HoldTicks: 6
+      Time: 0.5625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 18
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 114
+      HoldTicks: 0
+      Time: 0.59375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 18
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 120
+      HoldTicks: 6
+      Time: 0.625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 20
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 126
+      HoldTicks: 0
+      Time: 0.65625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 20
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 132
+      HoldTicks: 6
+      Time: 0.6875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 22
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 138
+      HoldTicks: 0
+      Time: 0.71875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 22
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 144
+      HoldTicks: 6
+      Time: 0.75
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 24
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 150
+      HoldTicks: 0
+      Time: 0.78125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 24
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 156
+      HoldTicks: 6
+      Time: 0.8125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 26
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 162
+      HoldTicks: 0
+      Time: 0.84375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 26
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 168
+      HoldTicks: 6
+      Time: 0.875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 28
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 174
+      HoldTicks: 0
+      Time: 0.90625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 28
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 180
+      HoldTicks: 6
+      Time: 0.9375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 30
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 186
+      HoldTicks: 0
+      Time: 0.96875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 30
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 192
+      HoldTicks: 6
+      Time: 1
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 32
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 198
+      HoldTicks: 0
+      Time: 1.03125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 32
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 204
+      HoldTicks: 6
+      Time: 1.0625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 34
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 210
+      HoldTicks: 0
+      Time: 1.09375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 34
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 216
+      HoldTicks: 6
+      Time: 1.125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 36
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 222
+      HoldTicks: 0
+      Time: 1.15625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 36
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 228
+      HoldTicks: 6
+      Time: 1.1875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 38
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 234
+      HoldTicks: 0
+      Time: 1.21875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 38
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 240
+      HoldTicks: 6
+      Time: 1.25
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 40
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 246
+      HoldTicks: 0
+      Time: 1.28125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 40
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 252
+      HoldTicks: 6
+      Time: 1.3125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 42
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 258
+      HoldTicks: 0
+      Time: 1.34375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 42
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 264
+      HoldTicks: 6
+      Time: 1.375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 44
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 270
+      HoldTicks: 0
+      Time: 1.40625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 44
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 276
+      HoldTicks: 6
+      Time: 1.4375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 46
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 282
+      HoldTicks: 0
+      Time: 1.46875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 46
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 288
+      HoldTicks: 6
+      Time: 1.5
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 48
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 294
+      HoldTicks: 0
+      Time: 1.53125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 48
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 300
+      HoldTicks: 6
+      Time: 1.5625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 50
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 306
+      HoldTicks: 0
+      Time: 1.59375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 50
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 312
+      HoldTicks: 6
+      Time: 1.625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 52
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 318
+      HoldTicks: 0
+      Time: 1.65625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 52
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 324
+      HoldTicks: 6
+      Time: 1.6875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 54
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 330
+      HoldTicks: 0
+      Time: 1.71875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 54
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 336
+      HoldTicks: 6
+      Time: 1.75
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 56
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 342
+      HoldTicks: 0
+      Time: 1.78125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 56
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 348
+      HoldTicks: 6
+      Time: 1.8125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 58
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 354
+      HoldTicks: 0
+      Time: 1.84375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 58
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 360
+      HoldTicks: 6
+      Time: 1.875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 60
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 366
+      HoldTicks: 0
+      Time: 1.90625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 60
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 372
+      HoldTicks: 6
+      Time: 1.9375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 62
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 378
+      HoldTicks: 0
+      Time: 1.96875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 62
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 384
+      HoldTicks: 6
+      Time: 2
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 64
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 390
+      HoldTicks: 0
+      Time: 2.03125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 64
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 396
+      HoldTicks: 6
+      Time: 2.0625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 66
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 402
+      HoldTicks: 0
+      Time: 2.09375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 66
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 408
+      HoldTicks: 6
+      Time: 2.125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 68
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 414
+      HoldTicks: 0
+      Time: 2.15625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 68
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 420
+      HoldTicks: 6
+      Time: 2.1875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 70
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 426
+      HoldTicks: 0
+      Time: 2.21875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 70
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 432
+      HoldTicks: 6
+      Time: 2.25
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 72
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 438
+      HoldTicks: 0
+      Time: 2.28125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 72
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 444
+      HoldTicks: 6
+      Time: 2.3125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 74
+      Data2: 100
+    - DeltaTicks: 6
+      Ticks: 450
+      HoldTicks: 0
+      Time: 2.34375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 74
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 456
+      HoldTicks: 6
+      Time: 2.375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 76
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 462
+      HoldTicks: 0
+      Time: 2.40625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 76
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 468
+      HoldTicks: 6
+      Time: 2.4375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 78
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 474
+      HoldTicks: 0
+      Time: 2.46875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 78
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 480
+      HoldTicks: 6
+      Time: 2.5
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 80
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 486
+      HoldTicks: 0
+      Time: 2.53125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 80
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 492
+      HoldTicks: 6
+      Time: 2.5625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 82
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 498
+      HoldTicks: 0
+      Time: 2.59375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 82
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 504
+      HoldTicks: 6
+      Time: 2.625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 84
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 510
+      HoldTicks: 0
+      Time: 2.65625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 84
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 516
+      HoldTicks: 6
+      Time: 2.6875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 86
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 522
+      HoldTicks: 0
+      Time: 2.71875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 86
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 528
+      HoldTicks: 6
+      Time: 2.75
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 88
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 534
+      HoldTicks: 0
+      Time: 2.78125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 88
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 540
+      HoldTicks: 6
+      Time: 2.8125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 90
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 546
+      HoldTicks: 0
+      Time: 2.84375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 90
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 552
+      HoldTicks: 6
+      Time: 2.875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 92
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 558
+      HoldTicks: 0
+      Time: 2.90625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 92
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 564
+      HoldTicks: 6
+      Time: 2.9375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 94
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 570
+      HoldTicks: 0
+      Time: 2.96875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 94
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 576
+      HoldTicks: 6
+      Time: 3
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 96
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 582
+      HoldTicks: 0
+      Time: 3.03125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 96
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 588
+      HoldTicks: 6
+      Time: 3.0625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 98
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 594
+      HoldTicks: 0
+      Time: 3.09375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 98
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 600
+      HoldTicks: 6
+      Time: 3.125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 100
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 606
+      HoldTicks: 0
+      Time: 3.15625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 100
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 612
+      HoldTicks: 6
+      Time: 3.1875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 102
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 618
+      HoldTicks: 0
+      Time: 3.21875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 102
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 624
+      HoldTicks: 6
+      Time: 3.25
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 104
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 630
+      HoldTicks: 0
+      Time: 3.28125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 104
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 636
+      HoldTicks: 6
+      Time: 3.3125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 106
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 642
+      HoldTicks: 0
+      Time: 3.34375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 106
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 648
+      HoldTicks: 6
+      Time: 3.375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 108
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 654
+      HoldTicks: 0
+      Time: 3.40625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 108
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 660
+      HoldTicks: 6
+      Time: 3.4375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 110
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 666
+      HoldTicks: 0
+      Time: 3.46875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 110
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 672
+      HoldTicks: 6
+      Time: 3.5
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 112
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 678
+      HoldTicks: 0
+      Time: 3.53125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 112
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 684
+      HoldTicks: 6
+      Time: 3.5625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 114
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 690
+      HoldTicks: 0
+      Time: 3.59375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 114
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 696
+      HoldTicks: 6
+      Time: 3.625
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 116
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 702
+      HoldTicks: 0
+      Time: 3.65625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 116
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 708
+      HoldTicks: 6
+      Time: 3.6875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 118
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 714
+      HoldTicks: 0
+      Time: 3.71875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 118
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 720
+      HoldTicks: 6
+      Time: 3.75
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 120
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 726
+      HoldTicks: 0
+      Time: 3.78125
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 120
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 732
+      HoldTicks: 6
+      Time: 3.8125
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 122
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 738
+      HoldTicks: 0
+      Time: 3.84375
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 122
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 744
+      HoldTicks: 6
+      Time: 3.875
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 124
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 750
+      HoldTicks: 0
+      Time: 3.90625
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 124
+      Data2: 64
+    - DeltaTicks: 6
+      Ticks: 756
+      HoldTicks: 6
+      Time: 3.9375
+      HoldTime: 0.03125
+      MetaMessageIndex: 2
+      Status: 144
+      Data1: 126
+      Data2: 101
+    - DeltaTicks: 6
+      Ticks: 762
+      HoldTicks: 0
+      Time: 3.96875
+      HoldTime: 0
+      MetaMessageIndex: 2
+      Status: 128
+      Data1: 126
+      Data2: 64
+    - DeltaTicks: 0
+      Ticks: 762
+      HoldTicks: 0
+      Time: 3.96875
+      HoldTime: 0
+      MetaMessageIndex: 3
+      Status: 255
+      Data1: 0
+      Data2: 0
+    trackIndex: 0
+  metaMessages:
+  - metaType: 3
+    data: 00
+  - metaType: 88
+    data: 04020008
+  - metaType: 88
+    data: 04020008
+  - metaType: 47
+    data: 
+  header:
+    Format: 0
+    NumTracks: 1
+    Division: 96
+    Ticks: 762
+    Length: 3.96875
+    NoteCount: 64

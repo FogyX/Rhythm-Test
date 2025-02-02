@@ -1,0 +1,15 @@
+Copyright and license file information.
+---------------------------
+Files:
+   AllNotes.midi
+   AllNotesPause.midi
+   NoteRepeat.midi
+   Scale.midi
+   ScaleEvens.midi
+   ScaleOdds.midi
+   
+Author:
+   Aaron Taylor
+   
+License:
+   Public Domain. You are free to use, modify, and redistribute these files without restriction.

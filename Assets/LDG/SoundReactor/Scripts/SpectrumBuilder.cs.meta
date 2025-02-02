@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6947a3d20c190d846b6f8844b8709c32
+timeCreated: 1527207048
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - texture: {instanceID: 0}
+  - levelInstance: {instanceID: 0}
+  - colorDriver: {instanceID: 0}
+  - lineMaterial: {fileID: 2100000, guid: d25ac5f4ce0e8d4489218d0e654475f5, type: 2}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 0cddf915ed687a24c90ac1a018e2d6e4, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

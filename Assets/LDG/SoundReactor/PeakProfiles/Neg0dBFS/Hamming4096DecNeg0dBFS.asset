@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4761bab2f7cb3a40b5d6327199d1d02, type: 3}
+  m_Name: Hamming4096DecNeg0dBFS
+  m_EditorClassIdentifier: 
+  fftWindow: 2
+  fftSamples: 4096
+  amplitudeMode: 1
+  peak: 0.20956115
+  peaks:
+  - 0.19703993
+  - 0.20956115
+  - 0.2091598
+  - 0.20842929
+  - 0.20770712
+  - 0.20591417
+  - 0.2034355
+  - 0.20002437
+  - 0.1956248
+  - 0.19007537
+  - 0.18350624
+  - 0.17895988
+  - 0.17179474
+  - 0.16575436
+  - 0.15875085
+  - 0.15301284
+  - 0.14640029
+  - 0.13969739
+  - 0.13359046
+  - 0.12700741
+  - 0.12000455
+  - 0.1137224
+  - 0.10650969
+  - 0.09958684
+  - 0.09183151
+  - 0.08341433
+  - 0.07418612
+  - 0.06404138
+  - 0.047370218
+  - 0.029010043
+  hash: 5279906

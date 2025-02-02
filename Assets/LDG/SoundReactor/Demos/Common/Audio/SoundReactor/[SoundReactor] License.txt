@@ -1,0 +1,18 @@
+Copyright and license file information.
+---------------------------
+Title:
+   "SoundReactor"
+   
+Original work by:
+   DJ Couch King
+   YouTube: https://www.youtube.com/channel/UCupH2Z5IubJKXTsF8lL4Uog
+   Instagram: https://www.instagram.com/djcouchking/
+   Facebook: https://www.facebook.com/couchkingmusic/
+   Twitter: https://twitter.com/djcouchking
+   
+
+Edited by:
+   Aaron Taylor
+   
+License:
+   You may use this music in YouTube videos and in compiled Unity3D apps so long as it's used in conjunction with Sound Reactor.

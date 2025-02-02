@@ -1,0 +1,7 @@
+The LogSweepNeg3dBFS sound file is a special sound file that can be used to calibrate a spectrum so that the magnitudes result in values around 0 to 1. It's what stabilizes the spectrum and makes it possible for you to use it to trigger events reliably.
+
+The technique goes something like this: record the peaks of a sweep tone whose volume is maintained throughout the entire spectrum, then play all audio relative to those peaks. When audio is played back using those peaks, the result is a stable spectrum which is scaled to a range around 0 and 1.
+
+Not all peaks are equal. When recording peaks, the peak at a given frequency recorded at 4096 samples using Hamming and a Decibel amplitude is not the same as 2048 samples using Hamming and a Linear amplitude.
+
+There are 5 pre-recorded peak profiles that come with Sound Reactor, but they might not fit your exact needs, and because of this you'll need to record your own when. To do this, follow the "Peaks Profile: Creating a PeaksProfile" instructions found in the SoundReactorManual, and use the LogSweepNeg3dBFS audio for the source. If you need to record a sweep tone at a different volume, then there are websites out there that allow you to create sweep tone audio files at any dB.

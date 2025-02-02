@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0b753814d44c06a47932b67db99a205b
+timeCreated: 1562079640
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MatCapDiff: {fileID: 2800000, guid: a39ee6ca1ebf27c47bca5fc3ecb2272b, type: 3}
+  - _MatCapRefl: {fileID: 2800000, guid: 965e2a7aa6713cc45ab7a96ee3e8e6ab, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

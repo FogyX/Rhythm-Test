@@ -1,0 +1,10 @@
+Copyright and license file information.
+---------------------------
+Title:
+   "SoundReactorShort"
+   
+Author:
+   Aaron Taylor
+   
+License:
+   You may use this music in YouTube videos and in compiled Unity3D apps so long as it's used in conjunction with Sound Reactor.

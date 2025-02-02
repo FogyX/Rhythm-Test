@@ -1,0 +1,15 @@
+Copyright and license file information.
+---------------------------
+Files:
+   Czerny_Op_821_No_009.mid
+   https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2072
+
+   fur_Elise_WoO59.mid
+   https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=931
+
+   K545-1.mid
+   https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=998
+   
+License:
+   Public Domain
+   https://www.mutopiaproject.org/legal.html

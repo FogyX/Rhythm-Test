@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4761bab2f7cb3a40b5d6327199d1d02, type: 3}
+  m_Name: Decibel4096.peaks
+  m_EditorClassIdentifier: 
+  fftWindow: 2
+  fftSamples: 4096
+  amplitudeMode: 1
+  peak: 0.19065946
+  peaks:
+  - 0.17811689
+  - 0.19065946
+  - 0.19013447
+  - 0.18948154
+  - 0.18881197
+  - 0.18702687
+  - 0.18450686
+  - 0.18107255
+  - 0.17687638
+  - 0.1711509
+  - 0.16458856
+  - 0.16011997
+  - 0.15293337
+  - 0.14684688
+  - 0.1403492
+  - 0.13429633
+  - 0.12754695
+  - 0.12027337
+  - 0.11428894
+  - 0.10782664
+  - 0.10135747
+  - 0.10054409
+  - 0.08788763
+  - 0.08066124
+  - 0.07262505
+  - 0.0643266
+  - 0.05528259
+  - 0.044429794
+  - 0.029002288
+  - 0.010386288
+  hash: 5279906
