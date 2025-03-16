@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7979,6 +7979,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 420606953}
+  - component: {fileID: 420606952}
   - component: {fileID: 420606951}
   m_Layer: 0
   m_Name: SpectrumSource
@@ -8000,13 +8001,35 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _isPrefab: 0
-  spectrumSource: {fileID: 948679267}
+  spectrumSource: {fileID: 420606952}
   eq: {fileID: 0}
   interpolationMode: 0
   scale: 1
   fallSpeed: 6
   beatSensitivity: 0.01
   beatTrigger: 0
+--- !u!114 &420606952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 420606950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ca2b085bcad48f69a52f50f2e245c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isPrefab: 0
+  midiSource: {fileID: 1523114753}
+  globalFallback: 1
+  audioSource: {fileID: 1523114751}
+  peaksProfile: {fileID: 11400000, guid: c93fdc74e3ab11b4abfcbcceb1302dec, type: 2}
+  sourceMode: 1
+  audioChannel: 0
+  bandOption: 7
+  normalizeMode: 1
+  amplitudeScale: 1
 --- !u!4 &420606953
 Transform:
   m_ObjectHideFlags: 0
@@ -8015,13 +8038,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 420606950}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1709151617}
-  m_Father: {fileID: 948679268}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &478866396
 GameObject:
@@ -11104,7 +11127,7 @@ MonoBehaviour:
   fallSpeed: 1
   spectrumFilter: {fileID: 0}
   frequencyMode: 1
-  linearizedFrequency: 0.16535433
+  linearizedFrequency: 0.16535434
   inheritable: 1
 --- !u!114 &758174545
 MonoBehaviour:
@@ -15237,61 +15260,6 @@ Transform:
   - {fileID: 2017074250}
   - {fileID: 253878672}
   m_Father: {fileID: 1712075712}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &948679266
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 948679268}
-  - component: {fileID: 948679267}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &948679267
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 948679266}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49ca2b085bcad48f69a52f50f2e245c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _isPrefab: 0
-  midiSource: {fileID: 1523114753}
-  globalFallback: 1
-  audioSource: {fileID: 0}
-  peaksProfile: {fileID: 11400000, guid: c93fdc74e3ab11b4abfcbcceb1302dec, type: 2}
-  sourceMode: 1
-  audioChannel: 0
-  bandOption: 1
-  normalizeMode: 2
-  amplitudeScale: 1
---- !u!4 &948679268
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 948679266}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 420606953}
-  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1001894883
 GameObject:
@@ -31907,8 +31875,8 @@ MonoBehaviour:
   frequencyMode: 1
   frequencyRangeOption: 1
   midiRangeOption: 6
-  frequencyLower: 27.500002
-  frequencyUpper: 4186.0093
+  frequencyLower: 27.5
+  frequencyUpper: 4186.009
   transformRepeat: 1
   transformAlternate: 0
   transformReverse: 0
@@ -41708,5 +41676,5 @@ SceneRoots:
   - {fileID: 672211615}
   - {fileID: 1780146173}
   - {fileID: 1523114752}
-  - {fileID: 948679268}
+  - {fileID: 420606953}
   - {fileID: 1712075712}

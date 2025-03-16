@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3de05529cf24a7887de3190d51912a1, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <PerfectGradeScore>k__BackingField: 300
+  <GreatGradeScore>k__BackingField: 100
+  <GoodGradeScore>k__BackingField: 50
+  <ComboToUpgradeMultiplier>k__BackingField: 5
+  <ComboMultiplierIncrement>k__BackingField: 1.1
+  <SyncOffset>k__BackingField: 0.2
+  <ChannelToGenerate>k__BackingField: 1
+  <NoteMovementSpeed>k__BackingField: 5
+  <GameNotePrefab>k__BackingField: {fileID: 5225955437828866436, guid: e89136eebef3a624aa5c67d206efd5ea, type: 3}
+  <NotesSpacing>k__BackingField: 2
+  <NotesContainerPrefab>k__BackingField: {fileID: 6170179500362438657, guid: 6a67e1ffad752aa43beb559418a9b1c7, type: 3}
+  <NoteButtonPrefab>k__BackingField: {fileID: 157945989415896829, guid: 980f27435b17784449542195f2e6bc31, type: 3}
+  <GoodGradeDistance>k__BackingField: 4.12
+  <GreatGradeDistance>k__BackingField: 2.4
+  <PerfectGradeDistance>k__BackingField: 1.17
+  NoteInputPairs:
+  - <NoteId>k__BackingField: 0
+    <Key>k__BackingField: 100
+  - <NoteId>k__BackingField: 1
+    <Key>k__BackingField: 102
+  - <NoteId>k__BackingField: 2
+    <Key>k__BackingField: 32
+  - <NoteId>k__BackingField: 3
+    <Key>k__BackingField: 106
+  - <NoteId>k__BackingField: 4
+    <Key>k__BackingField: 107

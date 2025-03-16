@@ -11,8 +11,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: 0b753814d44c06a47932b67db99a205b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - PERSPECTIVE_ON
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - _EMISSION
   m_LightmapFlags: 1
@@ -89,7 +88,6 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Perspective: 1
     - _Reflection: 1
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0

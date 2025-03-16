@@ -561,25 +561,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 1824
-      HoldTicks: 24
-      Time: 5.846148
-      HoldTime: 0.07692289
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 1848
-      HoldTicks: 0
-      Time: 5.923071
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 1848
       HoldTicks: 0
       Time: 5.923071
@@ -669,25 +651,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 2208
-      HoldTicks: 24
-      Time: 7.076916
-      HoldTime: 0.07692289
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 2232
-      HoldTicks: 0
-      Time: 7.153839
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 2232
       HoldTicks: 0
       Time: 7.153839
@@ -795,25 +759,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 2592
-      HoldTicks: 24
-      Time: 8.307684
-      HoldTime: 0.07692337
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 2616
-      HoldTicks: 0
-      Time: 8.384607
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 2616
       HoldTicks: 0
       Time: 8.384607
@@ -993,25 +939,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 3360
-      HoldTicks: 24
-      Time: 10.76922
-      HoldTime: 0.07692242
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 3384
-      HoldTicks: 0
-      Time: 10.846143
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 3384
       HoldTicks: 0
       Time: 10.846143
@@ -1101,25 +1029,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 3744
-      HoldTicks: 24
-      Time: 11.999988
-      HoldTime: 0.07692337
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 3768
-      HoldTicks: 0
-      Time: 12.076911
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 3768
       HoldTicks: 0
       Time: 12.076911
@@ -1227,25 +1137,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 4128
-      HoldTicks: 24
-      Time: 13.230756
-      HoldTime: 0.07692337
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 4152
-      HoldTicks: 0
-      Time: 13.307679
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 4152
       HoldTicks: 0
       Time: 13.307679
@@ -1497,25 +1389,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 4896
-      HoldTicks: 24
-      Time: 15.692292
-      HoldTime: 0.07692242
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 4920
-      HoldTicks: 0
-      Time: 15.769215
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 4920
       HoldTicks: 0
       Time: 15.769215
@@ -1623,25 +1497,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 5280
-      HoldTicks: 24
-      Time: 16.92306
-      HoldTime: 0.07692337
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 5304
-      HoldTicks: 0
-      Time: 16.999983
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 5304
       HoldTicks: 0
       Time: 16.999983
@@ -1767,25 +1623,7 @@ MonoBehaviour:
       Status: 144
       Data1: 60
       Data2: 100
-    - DeltaTicks: 0
-      Ticks: 5664
-      HoldTicks: 24
-      Time: 18.153828
-      HoldTime: 0.07692337
-      MetaMessageIndex: 4
-      Status: 144
-      Data1: 60
-      Data2: 100
     - DeltaTicks: 24
-      Ticks: 5688
-      HoldTicks: 0
-      Time: 18.230751
-      HoldTime: 0
-      MetaMessageIndex: 4
-      Status: 128
-      Data1: 60
-      Data2: 64
-    - DeltaTicks: 0
       Ticks: 5688
       HoldTicks: 0
       Time: 18.230751
@@ -2489,4 +2327,4 @@ MonoBehaviour:
     Division: 96
     Ticks: 7680
     Length: 24.61536
-    NoteCount: 115
+    NoteCount: 106
